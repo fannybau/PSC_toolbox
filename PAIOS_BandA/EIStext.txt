@@ -1,0 +1,10 @@
+ZView Calculated Data File: Version 1.1
+Raw Data
+Sweep Frequency: Control Voltage
+Date: 01-01-2021     "Time: 00:00:00
+Zahner Zennium/IM6
+
+c:\data\asonia\converted files from PAIOS.txt
+Frequency
+0,2,0,1,4.00000E-01,2.00000E+06
+82
